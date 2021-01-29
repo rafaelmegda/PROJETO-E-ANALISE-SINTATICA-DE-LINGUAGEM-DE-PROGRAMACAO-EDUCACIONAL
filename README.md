@@ -1,8 +1,8 @@
-# Publicação da iniciação cientifica: PROJETO E ANÁLISE SINTÁTICA DE LINGUAGEM DE PROGRAMAÇÃO EDUCACIONAL
+# PROJETO E ANÁLISE SINTÁTICA DE LINGUAGEM DE PROGRAMAÇÃO EDUCACIONAL
 
 O objetivo principal desta pesquisa foi estabelecer uma linguagem de programação que seja próxima de uma alta abstração, mas que não seja as linguagens tradicionais para ensinar lógica de programação. Em muitos casos, o aluno ainda não teve contato com a programação, e é importante aprender a lógica. É necessário que o resultado do execicio lógico seja expressado em um código, e muitas vezes a linguagem escolhida, é a linguagem C por exemplo, o que é ótimo, porém em muitos casos foi constatado que o aluno encontra grande dificuldade, pois primeiro é necessário entender a linguagem para depois exercitar a lógica. Foi pensando em treinar diretamente a lógica em primeiro plano que surgiu então o objetivo desta iniciação.
 
-Arquivo do projeto de iniciação cientifica publicada no X Conict em Sorocaba em 2019. **Link da publicação:** http://ocs.ifsp.edu.br/index.php/conict/xconict/paper/view/5788
+### Arquivo do projeto de iniciação cientifica publicada no X Conict em Sorocaba em 2019. **Link da publicação:** http://ocs.ifsp.edu.br/index.php/conict/xconict/paper/view/5788
 
 **RESUMO:** Este projeto tem como propósito projetar e implementar o analisador sintático de uma
 linguagem de programação educacional aplicando os conceitos de gramáticas regulares,
